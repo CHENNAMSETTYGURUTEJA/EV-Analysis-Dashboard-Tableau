@@ -25,6 +25,12 @@ This project analyzes Electric Vehicle (EV) data to understand market trends, gr
 
 ---
 
+## Dataset Used
+
+* "Electric_Vehicle_Population_Data.csv"
+
+---
+
 ## 🛠 Tools Used
 
 * Tableau
@@ -44,7 +50,6 @@ This project analyzes Electric Vehicle (EV) data to understand market trends, gr
 ## 📁 Files
 
 * Tableau dashboard file
-* Dataset
 * Dashboard screenshot
 
 ---
